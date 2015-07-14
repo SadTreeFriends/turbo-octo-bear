@@ -23,7 +23,7 @@ You’ll be surprised to see that your idea has been worked on so hard and it ha
 
 ##Wouldn’t it be cool, if you want to do something meaningful but figure out that you have no idea where to start with?
 
-Project Thingy is a community-based idea factory. Any user has the right to thumb up and thumb down an idea. And the board will digest the most innovative and craziest ideas out by sending a monthly newsletter. Who knows, you may make a fortune with one or two of them!
+Project Thingy is a community-based idea factory. Any user has the right to thumb up and thumb down an idea. There will be a bulletin of all the best ideas that got voted out by the community. And the board will digest the most innovative and craziest ideas out by sending a monthly newsletter. Who knows, you may make a fortune with one or two of them!
 
 ***
 
@@ -32,7 +32,9 @@ Project Thingy is a community-based idea factory. Any user has the right to thum
 We decided at the beginning, that project thingy will have no requirement whatsoever on the quality of your ideas. Your idea can lead us to a domestic atomic fusion device, or to be filmed at the next episode of Jack-ass. Why, stupid ideas can be cool too!
 
 ***
+ 
 
+ 
 #Got any idea?
 
 
